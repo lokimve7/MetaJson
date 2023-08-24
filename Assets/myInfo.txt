@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "userName": "김현진0",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진1",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진2",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진3",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진4",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진5",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진6",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진7",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진8",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        },
+        {
+            "userName": "김현진9",
+            "age": 25,
+            "height": 180.5,
+            "gender": false,
+            "favoriteFood": [
+                "치킨",
+                "오이무침",
+                "콩나물"
+            ]
+        }
+    ]
+}
